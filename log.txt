@@ -1,0 +1,443 @@
+LIRI will default to What's my age again
+
+artist: blink-182
+song name: What's My Age Again?
+preview link: https://api.spotify.com/v1/tracks/5JZcX7TTLx4l0xFIXJ3DBt
+album: Enema Of The State
+
+artist: Nas
+song name: The World Is Yours
+preview link: https://api.spotify.com/v1/tracks/7G3lxTsMfSx4yarMkfgnTC
+album: Illmatic
+
+LIRI will default to Mr. Nobody
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+LIRI will default to Mr. Nobody
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+Please choose a movie or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Please enter the proper command
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Title: Bad Santa
+Year: 2003
+IMDB Rating: 7.1
+Country: USA, Germany
+Language: English
+Plot: A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid, and the security boss discovers the plot.
+Actors: Billy Bob Thornton, Tony Cox, Brett Kelly, Lauren Graham
+Rotten Tomatoes Rating: 6.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/bad_santa/
+
+Title: Bad Santa
+Year: 2003
+IMDB Rating: 7.1
+Country: USA, Germany
+Language: English
+Plot: A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid, and the security boss discovers the plot.
+Actors: Billy Bob Thornton, Tony Cox, Brett Kelly, Lauren Graham
+Rotten Tomatoes Rating: 6.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/bad_santa/
+
+Please choose a movie, or Liri will default to The Town
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+Title: Bad Santa
+Year: 2003
+IMDB Rating: 7.1
+Country: USA, Germany
+Language: English
+Plot: A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid, and the security boss discovers the plot.
+Actors: Billy Bob Thornton, Tony Cox, Brett Kelly, Lauren Graham
+Rotten Tomatoes Rating: 6.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/bad_santa/
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+LIRI will default to What's my age again
+artist: Nas
+song name: The World Is Yours
+preview link: https://api.spotify.com/v1/tracks/7G3lxTsMfSx4yarMkfgnTC
+album: Illmatic
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Please enter the proper command
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Attila
+song name: About That Life
+preview link: https://api.spotify.com/v1/tracks/0G9wOD7jtNDUwzc7EaVCod
+album: About That Life
+
+Please enter the one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+artist: Francis and the Lights
+song name: See Her Out (Thats Just Life)
+preview link: https://api.spotify.com/v1/tracks/5zheSFviZNgeZLvZCOxQnE
+album: Farewell, Starlite!
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Title: Bad Santa
+Year: 2003
+IMDB Rating: 7.1
+Country: USA, Germany
+Language: English
+Plot: A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid, and the security boss discovers the plot.
+Actors: Billy Bob Thornton, Tony Cox, Brett Kelly, Lauren Graham
+Rotten Tomatoes Rating: 6.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/bad_santa/
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+artist: Kap G
+song name: Girlfriend
+preview link: https://api.spotify.com/v1/tracks/0wJIFdZTLwl4ZQ6RNLOxQN
+album: El Southside
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Title: Bad Santa
+Year: 2003
+IMDB Rating: 7.1
+Country: USA, Germany
+Language: English
+Plot: A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid, and the security boss discovers the plot.
+Actors: Billy Bob Thornton, Tony Cox, Brett Kelly, Lauren Graham
+Rotten Tomatoes Rating: 6.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/bad_santa/
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+artist: Nas
+song name: The World Is Yours
+preview link: https://api.spotify.com/v1/tracks/7G3lxTsMfSx4yarMkfgnTC
+album: Illmatic
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Title: Catch Me If You Can
+Year: 2002
+IMDB Rating: 8.0
+Country: USA, Canada
+Language: English, French
+Plot: The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.
+Actors: Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen
+Rotten Tomatoes Rating: 7.9
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/catch_me_if_you_can/
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+artist: Moo
+song name: Kite Flying Society
+preview link: https://api.spotify.com/v1/tracks/0G6B7hmAf5SCQpKe0C2Lr6
+album: Kite Flying Society
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+artist: Lil Uzi Vert
+song name: Money Longer
+preview link: https://api.spotify.com/v1/tracks/0B8QzDH7YWih85V5SEMnyJ
+album: Lil Uzi Vert Vs. The World
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Title: American Gangster
+Year: 2007
+IMDB Rating: 7.8
+Country: USA, UK
+Language: English
+Plot: In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.
+Actors: Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin
+Rotten Tomatoes Rating: 7.0
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/american_gangster/
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+

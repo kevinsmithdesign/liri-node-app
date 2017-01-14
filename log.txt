@@ -441,3 +441,96 @@ node liri.js spotify-this-song '<song name>'
 node liri.js movie-this '<movie name>' 
 node liri.js do-what-it-says
 
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Please choose a song, or Liri will default to That's life by Frank Sinatra
+artist: Frank Sinatra
+song name: That's Life
+preview link: https://api.spotify.com/v1/tracks/7nL48xOPl0CraSaxKonp8j
+album: Ultimate Sinatra
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+Please choose a movie, or Liri will default to The Town
+Title: The Town
+Year: 2010
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+Actors: Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_town/
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+
+Title: Bad Santa
+Year: 2003
+IMDB Rating: 7.1
+Country: USA, Germany
+Language: English
+Plot: A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid, and the security boss discovers the plot.
+Actors: Billy Bob Thornton, Tony Cox, Brett Kelly, Lauren Graham
+Rotten Tomatoes Rating: 6.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/bad_santa/
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Please enter one of the choices below
+
+these are the possible entries: 
+node liri.js my-tweets
+node liri.js spotify-this-song '<song name>' 
+node liri.js movie-this '<movie name>' 
+node liri.js do-what-it-says
+

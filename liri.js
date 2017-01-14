@@ -4,6 +4,7 @@ var fs = require('fs');
 var spotify = require('spotify');
 var TwitterK = require('./keys.js');
 var Twitter = require('twitter');
+var client = new Twitter(TwitterK.twitterKeys);
 var statement = process.argv[2];
 var value = process.argv[3];
 var Err = '';
@@ -55,33 +56,26 @@ function checkResults(argument) {
 }
 // Shows Tweets in the command line.
 function showTweets() {
-  var twitKeys = TwitterK.twitterKeys;
+  //var twitKeys = TwitterK.twitterKeys;
   //Twitter Keys and access Keys. 
-  var client = new Twitter({
-      consumer_key: '<n7gAnV2gZQIjD7sY1cug9cCON>',
- 	  consumer_secret: '<Ei3i5eycVytJQIXX3grh7lNvraa3uetrgfKP6p2G0v2HDcDRMg>',
-  	  access_token_key: '<817592968366485505-OYCmAIYVZSQLVJgrCFuFpaLEC7XBsOj>', 
-  	  access_token_secret: '<XfO8t7VuGEMh1ZbgIa7nPl5H4WKff2VbCtfqVZAud3Odc>', 
-   });
+  //var client = new Twitter(TwitterK.twitterKeys);
 
- 
   var twitterId = 'mr_kevin_smith'
   var params = {screen_name: twitterId};
   client.get('statuses/user_timeline', params, function(error, tweets, response){
     if (!error) {
-        var tweetLength = 0;
-        if (tweets.length < 20) {
+        //var tweetLength = 0;
+        /* if (tweets.length < 20) {
             tweetLength = tweets.length
         } else {
             tweetLength = 20
+        }*/
+        //console.log(tweets[0].text);
+        for (var i = 0; i < 3; i++) {
+	        console.log(tweets[i].text);
         }
-
-        for (var i = 0; i < tweetLength; i++) {
-           showOutput = 'Tweet: ' + tweets[i].text + "\r\n" +
-           'Created: ' + tweets[i].created_at + "\r\n" + "\r\n";
-           console.log(showOutput);
-           logInput(showOutput);
-        }
+    } else {
+    	console.log(error);
     }
  });
 }
